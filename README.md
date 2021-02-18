@@ -1,1 +1,1 @@
-"# rickAndMortyApi" 
+"# rickAndMortyApi spring boot project" 
